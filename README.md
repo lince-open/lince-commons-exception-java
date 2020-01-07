@@ -1,0 +1,1 @@
+# lince-commons-exception-java
